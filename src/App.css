@@ -32,7 +32,7 @@ h2{
   text-shadow: #000000 2px 2px ;
 }
 h1{
-  background: -webkit-linear-gradient(90deg, rgba(236,230,70,1) 19%, rgba(255,255,255,1) 46%);
+   background: -webkit-linear-gradient(90deg,  rgba(236,230,70,1) 25%, rgb(214, 251, 220) 45%);
   -webkit-background-clip: text;
    -webkit-text-fill-color: transparent; 
    text-shadow: none;
